@@ -10,6 +10,12 @@ Official gateway and model catalog for Agnes AI.
 
 Agnes AI gives developers OpenAI-compatible access to multimodal models for text, image, video, and agent workflows through a unified API gateway.
 
+## About Agnes AI
+
+Agnes AI is a frontier AI company focused on full-modality foundation models. We train models in-house across text, image, video, and reasoning. Our mission is to make high-quality AI more accessible, scalable, and easy to plug into any product or platform.
+
+Our model suite features high-precision models ranked on PinchBench and is purpose-built to power agentic tools such as OpenClaw and Hermes. Alongside text-to-image, image-to-image, and image-to-video models, it delivers cinematic-quality visuals, synchronized audio-visual generation, and fast performance for seamless creation, transformation, and deployment of rich AI-generated content.
+
 ## Documentation Status
 
 | Field | Value |
